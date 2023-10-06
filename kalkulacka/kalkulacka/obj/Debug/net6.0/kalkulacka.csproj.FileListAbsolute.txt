@@ -1,0 +1,14 @@
+Z:\GitHub\Kalkulacka\kalkulacka\kalkulacka\bin\Debug\net6.0\kalkulacka.exe
+Z:\GitHub\Kalkulacka\kalkulacka\kalkulacka\bin\Debug\net6.0\kalkulacka.deps.json
+Z:\GitHub\Kalkulacka\kalkulacka\kalkulacka\bin\Debug\net6.0\kalkulacka.runtimeconfig.json
+Z:\GitHub\Kalkulacka\kalkulacka\kalkulacka\bin\Debug\net6.0\kalkulacka.dll
+Z:\GitHub\Kalkulacka\kalkulacka\kalkulacka\bin\Debug\net6.0\kalkulacka.pdb
+Z:\GitHub\Kalkulacka\kalkulacka\kalkulacka\obj\Debug\net6.0\kalkulacka.GeneratedMSBuildEditorConfig.editorconfig
+Z:\GitHub\Kalkulacka\kalkulacka\kalkulacka\obj\Debug\net6.0\kalkulacka.AssemblyInfoInputs.cache
+Z:\GitHub\Kalkulacka\kalkulacka\kalkulacka\obj\Debug\net6.0\kalkulacka.AssemblyInfo.cs
+Z:\GitHub\Kalkulacka\kalkulacka\kalkulacka\obj\Debug\net6.0\kalkulacka.csproj.CoreCompileInputs.cache
+Z:\GitHub\Kalkulacka\kalkulacka\kalkulacka\obj\Debug\net6.0\kalkulacka.dll
+Z:\GitHub\Kalkulacka\kalkulacka\kalkulacka\obj\Debug\net6.0\refint\kalkulacka.dll
+Z:\GitHub\Kalkulacka\kalkulacka\kalkulacka\obj\Debug\net6.0\kalkulacka.pdb
+Z:\GitHub\Kalkulacka\kalkulacka\kalkulacka\obj\Debug\net6.0\kalkulacka.genruntimeconfig.cache
+Z:\GitHub\Kalkulacka\kalkulacka\kalkulacka\obj\Debug\net6.0\ref\kalkulacka.dll
